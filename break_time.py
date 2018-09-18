@@ -1,7 +1,7 @@
 import webbrowser
 import time
 
-total_breaks = input("how many breaks you need")
+total_breaks = input("how many breaks you need  ")
 break_count = 0
 
 print("this program started on "+time.ctime())
